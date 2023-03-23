@@ -1,0 +1,72 @@
+Ford Ranger
+Raptor
+Pickup
+BUY 9097
+5
+Black
+Diesel
+120
+Toyota
+Vios
+Liftback
+NBY 6784
+7
+Wihte
+Petrol
+55
+Proton
+X70
+SUV
+VF 7803
+5
+Grey
+Petrol
+60
+Mini Cooper
+Mini Convertible
+Convertible
+ASH 6703
+5
+Green
+Petrol
+80
+Toyota
+Vios
+Liftback
+NBY 6784
+7
+Wihte
+Petrol
+55
+BMW
+M340d
+Standard
+BJD 98
+5
+Blue
+Diesel
+120
+Audi
+RS7
+Coupe
+SK 1736
+2
+Red
+Petrol
+150
+Toyota
+Vios
+Liftback
+NBY 6784
+7
+Wihte
+Petrol
+55
+Mercedes Benz
+SLK 230
+Convertible
+BHS 921
+5
+Silver
+Petrol
+110
